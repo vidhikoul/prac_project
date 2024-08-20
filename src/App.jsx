@@ -10,4 +10,9 @@ function App() {
   return (
     <div>
       <New/>
-  
+      <Banner/>
+    </div>
+  )
+}
+
+export default App

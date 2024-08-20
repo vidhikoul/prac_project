@@ -7,4 +7,11 @@ function Banner() {
         <div className='w-full md:w-1/2'>
           <h1 className='text-4xl font-bold'>Welcome to our <span>ngo website</span></h1>
         </div>
-        <div 
+        <div className='w-full md:w-1/2'>Right</div>
+      
+    </div>
+    </>
+  )
+}
+
+export default Banner
